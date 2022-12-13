@@ -1,0 +1,9 @@
+<map id="asylo/identity/attestation/sgx/sgx_age_remote_assertion_verifier.h" name="asylo/identity/attestation/sgx/sgx_age_remote_assertion_verifier.h">
+<area shape="rect" id="node8" href="$enclave__assertion__verifier_8h.html" title="asylo/identity/attestation\l/enclave_assertion_verifier.h" alt="" coords="1744,109,1952,151"/>
+<area shape="rect" id="node21" href="$status_8h.html" title="asylo/util/status.h" alt="" coords="1800,377,1939,404"/>
+<area shape="rect" id="node46" href="$statusor_8h.html" title="asylo/util/statusor.h" alt="" coords="2283,295,2434,322"/>
+<area shape="rect" id="node9" href="$enclave__assertion__authority_8h.html" title="asylo/identity/enclave\l_assertion_authority.h" alt="" coords="989,199,1155,240"/>
+<area shape="rect" id="node45" href="$status__macros_8h.html" title="asylo/util/status_macros.h" alt="" coords="533,377,726,404"/>
+<area shape="rect" id="node33" href="$logging_8h.html" title="asylo/util/logging.h" alt="" coords="735,459,881,486"/>
+<area shape="rect" id="node38" href="$error__space_8h.html" title="asylo/util/error_space.h" alt="" coords="2397,459,2571,486"/>
+</map>

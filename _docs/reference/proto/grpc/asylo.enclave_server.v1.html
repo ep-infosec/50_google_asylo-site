@@ -1,0 +1,52 @@
+---
+title: Enclave gRPC Server Configuration
+overview: Configuration options for a basic enclave gRPC server.
+location: https://asylo.dev/docs/reference/proto/grpc/asylo.enclave_server.v1.html
+layout: protoc-gen-docs
+generator: protoc-gen-docs
+redirect_from: /docs/reference/proto/grpc/enclave_server.html
+number_of_entries: 1
+---
+<p>This package defines messages and extensions used by the EnclaveServer
+utility.</p>
+
+<h2 id="ServerConfig">ServerConfig</h2>
+<section>
+<p>Represents an enclave gRPC server&rsquo;s configuration.</p>
+
+<table class="message-fields">
+<thead>
+<tr>
+<th>Field</th>
+<th>Type</th>
+<th>Description</th>
+<th>Required</th>
+</tr>
+</thead>
+<tbody>
+<tr id="ServerConfig-host">
+<td><code>host</code></td>
+<td><code>string</code></td>
+<td>
+<p>The host to run on in the form of IPv6 address minus the port.</p>
+
+</td>
+<td>
+No
+</td>
+</tr>
+<tr id="ServerConfig-port">
+<td><code>port</code></td>
+<td><code>int32</code></td>
+<td>
+<p>The port to run on. A port of 0 indicates that the port should be
+auto-selected by the system.</p>
+
+</td>
+<td>
+No
+</td>
+</tr>
+</tbody>
+</table>
+</section>
